@@ -1,0 +1,84 @@
+Assignment set 1
+
+var cars = ["Audi","BMW","Porsche","Ferarri","Bugatti","Mercedes","Lamborghini"]
+
+Print out each cars
+Print the number of cars in the array
+Print the first cars, middle and last cars
+Change each cars name to uppercase one by one and print them out
+Print the array like as a sentence: Audi, BMW, Porsche, Ferarri, Bugatti, Mercedes and Lamborghini are luxurious cars.
+Check if 1."BMW"  2."Ford" exists in the cars array. If it exist return "the car is available" else return a "cars is not available"
+Filter out cars which have more than one 'r' with the filter method
+Sort the array using sort() method
+Reverse the array using reverse() method
+Slice out the first 3 cars from the array
+Slice out the last 3 cars from the array
+Slice out the middle 3 cars from the array
+Remove the first car from the array
+Remove the middle car from the array
+Remove the last car from the array
+Remove all cars
+
+Assignment set 2
+
+const characters = [
+    {
+        name: 'Luke Skywalker',
+        height: '172',
+        mass: '77',
+        eye_color: 'blue',
+        gender: 'male',
+    },
+    {
+        name: 'Darth Vader',
+        height: '202',
+        mass: '136',
+        eye_color: 'yellow',
+        gender: 'male',
+    },
+    {
+        name: 'Leia Organa',
+        height: '150',
+        mass: '49',
+        eye_color: 'brown',
+        gender: 'female',
+    },
+    {
+        name: 'Anakin Skywalker',
+        height: '188',
+        mass: '84',
+        eye_color: 'blue',
+        gender: 'male',
+    },
+];
+MAP
+Get an array of all names
+Get an array of all heights
+Get an array of objects with just name and height properties
+Get an array of all first names
+REDUCE
+Get the total mass of all characters
+Get the total height of all characters
+Get the total number of characters in all the character names
+Get the total number of characters by eye color 
+FILTER
+Get characters with mass greater than 100
+Get characters with height less than 200
+Get all male characters
+Get all female characters
+SORT
+Sort by name
+Sort by mass
+Sort by height
+Sort by gender
+EVERY
+Does every character have blue eyes?
+Does every character have mass more than 40?
+Is every character shorter than 200?
+Is every character male?
+SOME
+Is there at least one male character?
+Is there at least one character with blue eyes?
+Is there at least one character taller than 200?
+Is there at least one character that has mass less than 50?
+
